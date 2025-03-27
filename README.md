@@ -1,3 +1,11 @@
+<div align="center">
+  
+  # Hello World! I'm Chamodya 👋
+  
+  <p>
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=28&duration=3000&pause=1000&color=0969DA&center=true&vCenter=true&random=false&width=600&lines=Software+Engineering+Undergraduate;Tech+Enthusiast;Fullstack+Developer;Cloud+Advocate" alt="Typing SVG" />
+  </p>
+
 # Who Am I?
 ✅ Software Engineering Undergraduate <br>
 ✅ Tech Enthusiast <br>
@@ -19,5 +27,21 @@
 <a href="https://github.com/chamo7788/"> <img src="./assets/snake-eat.svg"></a>  <!--- All credits goes to the Chamod Shehanka Perera --->
 </p>
 
+## 🏆 GitHub Trophies
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=chamo7788&theme=nord&column=7" alt="GitHub Trophies" />
+</div>
+
+## 📫 Connect With Me
+
+<div align="center">
+  <a href="www.linkedin.com/in/chamodya-ganegamage" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:ganegamagechamodya@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+</div>
 
   
