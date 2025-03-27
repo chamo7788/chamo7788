@@ -10,7 +10,6 @@
 ✅ Software Engineering Undergraduate <br>
 ✅ Tech Enthusiast <br>
 ✅ Fullstack Developer <br>
-✅ Talks about Cloud <br>
 ✅ Everything is 1 and 0 until quantum computing is here !
 
 # 💻 What I Know:
