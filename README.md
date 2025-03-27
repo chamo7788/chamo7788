@@ -1,9 +1,9 @@
-<div align="center">
+<div>
   
   # Hello World! I'm Chamodya 👋
   
   <p>
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=28&duration=3000&pause=1000&color=0969DA&center=true&vCenter=true&random=false&width=600&lines=Software+Engineering+Undergraduate;Tech+Enthusiast;Fullstack+Developer;Cloud+Advocate" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=28&duration=3000&pause=1000&color=0969DA&vCenter=true&random=false&width=600&lines=Software+Engineering+Undergraduate;Tech+Enthusiast;Fullstack+Developer" alt="Typing SVG" />
   </p>
 
 # Who Am I?
