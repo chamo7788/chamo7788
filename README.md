@@ -25,12 +25,6 @@
 <a href="https://github.com/chamo7788/"> <img src="./assets/snake-eat.svg"></a>  <!--- All credits goes to the Chamod Shehanka Perera --->
 </p>
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=chamo7788&theme=radical&no-frame=false&no-bg=false&margin-w=4)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=chamo7788&limit=5&theme=gruvbox&combine_all_yearly_contributions=true)
-
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
